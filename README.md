@@ -374,5 +374,5 @@ MIT License - Free for personal and commercial use.
 
 <p align="center">
   <strong>Built by Taha E. for Netics Agency</strong><br>
-  <a href="https://netics.agency">netics.agency</a>
+  <a href="https://netics.fr">netics.fr</a>
 </p>
